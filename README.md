@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zein Rafie
 
-### Software Engineer | Python • JavaScript • React
+### Junior Software Engineer | Python • JavaScript • React
 
 Software engineer with a background in digital optimisation (CRO) and UX, passionate about building thoughtful, user-centred software. I recently completed the Makers Academy Software Engineering Bootcamp, where I developed full-stack applications using Python, JavaScript and React while working in Agile teams with test-driven development.
 
@@ -8,7 +8,7 @@ My previous career taught me how to understand users, solve product problems thr
 
 📍 **Based in London, UK**
 
-💼 **Open to Graduate Software Engineer & Junior Software Engineer opportunities**
+💼 **Open to Graduate & Junior Software Engineer opportunities**
 
 ---
 
@@ -46,7 +46,7 @@ An AI application designed to help users navigate complex decisions through stru
 
 **Tech:** React • Express • MongoDB • Anthropic API
 
-➡️ **Repository:** *(https://github.com/zeinrafie1-jpg/unstuck-solo-project)*
+➡️ **Repository:** *https://github.com/zeinrafie1-jpg/unstuck-solo-project*
 
 ---
 
@@ -65,7 +65,7 @@ Built as part of a Scrum team, allowing users to list, browse and book filming l
 
 **Tech:** Python • Flask • PostgreSQL
 
-➡️ **Repository:** *[(add link)](https://github.com/zeinrafie1-jpg/makersbnb-public-python)*
+➡️ **Repository:** *https://github.com/zeinrafie1-jpg/makersbnb-public-python*
 
 ---
 
@@ -84,7 +84,7 @@ Developed full-stack features within an existing MERN codebase, including friend
 
 **Tech:** React • Express • MongoDB
 
-➡️ **Repository:** *[(add link)](https://github.com/zeinrafie1-jpg/meerbook)*
+➡️ **Repository:** *https://github.com/zeinrafie1-jpg/meerbook*
 
 ---
 
@@ -103,7 +103,7 @@ A web application helping users discover nearby live music events through third-
 
 **Tech:** React • Express • MongoDB
 
-➡️ **Repository:** *[(add link)](https://github.com/zeinrafie1-jpg/events-webapp)*
+➡️ **Repository:** *https://github.com/zeinrafie1-jpg/events-webapp*
 
 ---
 

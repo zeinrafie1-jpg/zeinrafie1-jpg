@@ -121,9 +121,9 @@ I'm continuing to develop my engineering skills, with a particular focus on:
 
 # 💼 Previous Experience
 
-Before transitioning into software engineering, I spent over five years working in **Conversion Rate Optimisation (CRO)** and **UX**, partnering with developers, designers and product teams to improve digital experiences through experimentation and user research.
+Before transitioning into software engineering, I spent over five years working in **Conversion Rate Optimisation (CRO)**, partnering with developers, UX designers and product teams to improve digital experiences through experimentation and user research.
 
-This experience continues to influence how I approach software development—balancing clean engineering with user needs and business outcomes.
+This experience continues to influence how I approach software development - balancing clean engineering with user needs and business outcomes.
 
 ---
 

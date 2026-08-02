@@ -31,7 +31,7 @@ My previous career taught me how to understand users, solve product problems thr
 
 # ⭐ Featured Projects
 
-## 🧠 UnStuck
+## 🧠 UnStuck (Currently Building)
 **AI-powered decision coaching application**
 
 An AI application designed to help users navigate complex decisions through structured reasoning rather than simple pros-and-cons lists.

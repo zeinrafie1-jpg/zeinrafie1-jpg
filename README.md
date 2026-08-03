@@ -1,16 +1,33 @@
 # 👋 Hi, I'm Zein Rafie
 
-### Junior Software Engineer | Python • JavaScript • React
+### Software Engineer | Python • JavaScript • React
 
-Software engineer with a background in digital optimisation (CRO) and UX, passionate about building thoughtful, user-centred software. I recently completed the Makers Academy Software Engineering Bootcamp, where I developed full-stack applications using Python, JavaScript and React while working in Agile teams with test-driven development.
-
-My previous career taught me how to understand users, solve product problems through experimentation, and collaborate closely with developers. I now enjoy applying those skills to build clean, maintainable software that delivers a great user experience.
+I'm a junior software engineer with a background in **Conversion Rate Optimisation (CRO)** and UX, having recently completed the Makers Academy Software Engineering Bootcamp. My previous career taught me how to understand users, solve product problems through experimentation and collaborate with developers—skills I now bring to building thoughtful, user-centred software.
 
 📍 **Based in London, UK**
 
-💼 **Open to Graduate & Junior Software Engineer opportunities**
+💼 **Open to Graduate Software Engineer & Junior Software Engineer opportunities**
 
 ---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,flask,express,mongodb,postgres,git,github,githubactions,html,css&theme=light" />
+</p>
+
+**Languages:** Python • JavaScript • SQL
+
+**Frameworks:** React • Flask • Express.js
+
+**Databases:** PostgreSQL • MongoDB
+
+**Testing:** pytest • Jest
+
+**Tools:** Git • GitHub • GitHub Actions • Figma
+
+---
+
 
 ## 🛠️ Tech Stack
 
@@ -29,129 +46,11 @@ My previous career taught me how to understand users, solve product problems thr
 
 ---
 
-# ⭐ Featured Projects
+## 🌱 Current Focus
 
-## 🧠 UnStuck (Currently Building)
-**AI-powered decision coaching application**
+I'm currently building **UnStuck**, an AI-powered decision coaching application that helps users work through complex decisions using structured AI reasoning.
 
-An AI application designed to help users navigate complex decisions through structured reasoning rather than simple pros-and-cons lists.
-
-### Highlights
-
-- 🤖 Anthropic API integration
-- ⚡ Real-time AI streaming with Server-Sent Events
-- 🔒 Secure backend API architecture
-- ✅ Unit testing with mocked AI responses
-- 🚀 Continuous Integration using GitHub Actions
-
-**Tech:** React • Express • MongoDB • Anthropic API
-
-➡️ **Repository:** *https://github.com/zeinrafie1-jpg/unstuck-solo-project*
-
----
-
-## 🎬 SceneBnB
-**Airbnb-inspired booking platform for TV & film locations**
-
-Built as part of a Scrum team, allowing users to list, browse and book filming locations while preventing booking conflicts.
-
-### Highlights
-
-- Full-stack Python application
-- PostgreSQL database
-- Booking approval workflow
-- Authentication & CRUD functionality
-- Agile development with pair programming
-
-**Tech:** Python • Flask • PostgreSQL
-
-➡️ **Repository:** *https://github.com/zeinrafie1-jpg/makersbnb-public-python*
-
----
-
-## 👥 Meerbook
-**Facebook-inspired social networking platform**
-
-Developed full-stack features within an existing MERN codebase, including friend requests and post interactions while collaborating in an Agile development team.
-
-### Highlights
-
-- Friend request functionality
-- Post likes
-- React frontend
-- Express backend
-- Collaborative code reviews
-
-**Tech:** React • Express • MongoDB
-
-➡️ **Repository:** *https://github.com/zeinrafie1-jpg/meerbook*
-
----
-
-## 🎵 enCore
-**Music event discovery platform**
-
-A web application helping users discover nearby live music events through third-party API integrations.
-
-### Highlights
-
-- Google Maps API
-- Ticketmaster API
-- Better Auth authentication
-- Event filtering
-- Responsive UI
-
-**Tech:** React • Express • MongoDB
-
-➡️ **Repository:** *https://github.com/zeinrafie1-jpg/events-webapp*
-
----
-
-# 🌱 Currently Learning
-
-I'm continuing to develop my engineering skills, with a particular focus on:
-
-- Software architecture & design patterns
-- Docker & containerisation
-- Cloud deployment
-- AI application development
-- Building production-ready full-stack applications
-
----
-
-# 💼 Previous Experience
-
-Before transitioning into software engineering, I spent over five years working in **Conversion Rate Optimisation (CRO)**, partnering with developers, UX designers and product teams to improve digital experiences through experimentation and user research.
-
-This experience continues to influence how I approach software development - balancing clean engineering with user needs and business outcomes.
-
----
-
-# 📫 Connect
-
-💼 **LinkedIn:** *https://www.linkedin.com/in/zein-rafie-003574193/*
-
-📧 **Email:** zeinrafie1@gmail.com
-
----
-
-Thanks for visiting my profile! Feel free to explore my repositories. Each includes a detailed README explaining the project, technologies used and my individual contributions.
-
-# 👋 Hi, I'm Zein Rafie
-
-I'm a junior software engineer with a background in Conversion Rate Optimisation (CRO) and UX, having recently completed the Makers Academy Software Engineering Bootcamp. My previous career taught me how to understand users, solve product problems through experimentation and collaborate with developers—skills I now bring to building full-stack applications.
-
-📍 Based in London, UK
-
-💼 Open to Graduate Software Engineer & Junior Software Engineer opportunities
-
----
-
-## 🌱 What I'm Currently Working On
-
-I'm continuing to develop **UnStuck**, an AI-powered decision coaching application that helps users work through complex decisions using structured AI reasoning.
-
-Alongside this, I'm continuing to strengthen my understanding of:
+Alongside this, I'm continuing to develop my skills in:
 
 - AI application development
 - Software architecture
@@ -159,68 +58,83 @@ Alongside this, I'm continuing to strengthen my understanding of:
 
 ---
 
-## ⭐ Start Here
+## 🚀 Featured Projects
 
 ### 🧠 UnStuck *(Currently Building)*
 
-An AI-powered decision coaching application built with React, Express and MongoDB.
+An AI-powered decision coaching application that helps users navigate complex decisions through structured AI reasoning instead of simple pros-and-cons lists.
 
-**Why I'm proud of it**
+**What I'm learning**
 
-- My first independent full-stack application.
-- Explores real-time AI streaming using the Anthropic API.
-- Continues to evolve as I learn more about AI and backend architecture.
+- Designing AI-powered user experiences
+- Building secure backend integrations with external APIs
+- Streaming AI responses in real time using Server-Sent Events
+- Applying testing and CI practices to production-style applications
 
-➡️ **Repository:** [UnStuck](LINK)
+**Tech:** React • Express.js • MongoDB • Anthropic API • GitHub Actions
+
+🔗 **Repository:** *[unStuck](https://github.com/zeinrafie1-jpg/unstuck-solo-project)*
+➡️ **Repository:** *https://github.com/zeinrafie1-jpg/unstuck-solo-project*
 
 ---
 
 ### 🎬 SceneBnB
 
-An Airbnb-style platform for booking TV and film locations.
+A full-stack booking platform for TV and film production companies to list, browse and book filming locations.
 
 **What I learned**
 
-- Building a full-stack application with Python and PostgreSQL.
-- Working in an Agile Scrum team using pair programming and TDD.
+- Building full-stack applications with Python, Flask and PostgreSQL
+- Designing booking workflows and preventing booking conflicts
+- Collaborating in an Agile Scrum team using pair programming and TDD
 
-➡️ **Repository:** [SceneBnB](LINK)
+**Tech:** Python • Flask • PostgreSQL
+
+🔗 **Repository:** *[SceneBnB](https://github.com/zeinrafie1-jpg/makersbnb-public-python)*
+➡️ **Repository:** *https://github.com/zeinrafie1-jpg/makersbnb-public-python*
+
+---
+
+### 👥 Meerbook
+
+A Facebook-inspired social networking platform built collaboratively in an existing MERN codebase.
+
+**What I learned**
+
+- Developing features across both the React frontend and Express backend
+- Quickly becoming productive in an unfamiliar codebase
+- Collaborating through code reviews, sprint planning and Agile delivery
+
+**Tech:** React • Express.js • MongoDB
+
+🔗 **Repository:** *([Meerbook](https://github.com/zeinrafie1-jpg/meerbook))*
+➡️ **Repository:** *https://github.com/zeinrafie1-jpg/meerbook*
 
 ---
 
 ### 🎵 enCore
 
-A music discovery platform integrating the Ticketmaster and Google Maps APIs.
+A music discovery platform that helps users find local live events using third-party APIs.
 
 **What I learned**
 
-- Working with third-party APIs.
-- Building features collaboratively in a React/Express application.
+- Integrating external APIs including Ticketmaster and Google Maps
+- Building full-stack features within a collaborative Agile team
+- Creating intuitive user experiences from wireframes through to implementation
 
-➡️ **Repository:** [enCore](LINK)
+**Tech:** React • Express.js • MongoDB
 
----
-
-## 🛠 Technologies
-
-**Languages:** Python • JavaScript • SQL
-
-**Frameworks:** React • Flask • Express.js
-
-**Databases:** PostgreSQL • MongoDB
-
-**Testing:** pytest • Jest
-
-**Tools:** Git • GitHub • GitHub Actions • Figma
+🔗 **Repository:** *([enCore](https://github.com/zeinrafie1-jpg/events-webapp))*
+➡️ **Repository:** *https://github.com/zeinrafie1-jpg/events-webapp*
 
 ---
 
-## 📫 Get In Touch
+## 📫 Connect
 
-💼 LinkedIn: LINK
+💼 **LinkedIn:** *(https://www.linkedin.com/in/zein-rafie-003574193/)*
 
-📧 Email: zeinrafie1@gmail.com
+📧 **Email:** zeinrafie1@gmail.com
 
 ---
 
-Outside of software, I enjoy travelling, football and keeping up with developments in AI.
+Thanks for visiting my profile! Feel free to explore my repositories. Each includes a detailed README explaining the project, technologies used and my individual contributions.

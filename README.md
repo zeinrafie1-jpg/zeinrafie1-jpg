@@ -136,3 +136,91 @@ This experience continues to influence how I approach software development - bal
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories. Each includes a detailed README explaining the project, technologies used and my individual contributions.
+
+# 👋 Hi, I'm Zein Rafie
+
+I'm a junior software engineer with a background in Conversion Rate Optimisation (CRO) and UX, having recently completed the Makers Academy Software Engineering Bootcamp. My previous career taught me how to understand users, solve product problems through experimentation and collaborate with developers—skills I now bring to building full-stack applications.
+
+📍 Based in London, UK
+
+💼 Open to Graduate Software Engineer & Junior Software Engineer opportunities
+
+---
+
+## 🌱 What I'm Currently Working On
+
+I'm continuing to develop **UnStuck**, an AI-powered decision coaching application that helps users work through complex decisions using structured AI reasoning.
+
+Alongside this, I'm continuing to strengthen my understanding of:
+
+- AI application development
+- Software architecture
+- Building production-ready full-stack applications
+
+---
+
+## ⭐ Start Here
+
+### 🧠 UnStuck *(Currently Building)*
+
+An AI-powered decision coaching application built with React, Express and MongoDB.
+
+**Why I'm proud of it**
+
+- My first independent full-stack application.
+- Explores real-time AI streaming using the Anthropic API.
+- Continues to evolve as I learn more about AI and backend architecture.
+
+➡️ **Repository:** [UnStuck](LINK)
+
+---
+
+### 🎬 SceneBnB
+
+An Airbnb-style platform for booking TV and film locations.
+
+**What I learned**
+
+- Building a full-stack application with Python and PostgreSQL.
+- Working in an Agile Scrum team using pair programming and TDD.
+
+➡️ **Repository:** [SceneBnB](LINK)
+
+---
+
+### 🎵 enCore
+
+A music discovery platform integrating the Ticketmaster and Google Maps APIs.
+
+**What I learned**
+
+- Working with third-party APIs.
+- Building features collaboratively in a React/Express application.
+
+➡️ **Repository:** [enCore](LINK)
+
+---
+
+## 🛠 Technologies
+
+**Languages:** Python • JavaScript • SQL
+
+**Frameworks:** React • Flask • Express.js
+
+**Databases:** PostgreSQL • MongoDB
+
+**Testing:** pytest • Jest
+
+**Tools:** Git • GitHub • GitHub Actions • Figma
+
+---
+
+## 📫 Get In Touch
+
+💼 LinkedIn: LINK
+
+📧 Email: zeinrafie1@gmail.com
+
+---
+
+Outside of software, I enjoy travelling, football and keeping up with developments in AI.

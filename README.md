@@ -2,11 +2,11 @@
 
 ### Software Engineer | Python • JavaScript • React
 
-I'm a junior software engineer with a background in **Conversion Rate Optimisation (CRO)** and UX, having recently completed the Makers Academy Software Engineering Bootcamp. My previous career taught me how to understand users, solve product problems through experimentation and collaborate with developers—skills I now bring to building thoughtful, user-centred software.
+I'm a junior software engineer with a background in **Conversion Rate Optimisation (CRO)** and UX, having recently completed the Makers Academy Software Engineering Bootcamp. My previous career taught me how to understand users, solve product problems through experimentation and collaborate with developers - skills I now bring to building thoughtful, user-centred software.
 
 📍 **Based in London, UK**
 
-💼 **Open to Graduate Software Engineer & Junior Software Engineer opportunities**
+💼 **Open to Junior Software Engineer opportunities**
 
 ---
 
@@ -25,24 +25,6 @@ I'm a junior software engineer with a background in **Conversion Rate Optimisati
 **Testing:** pytest • Jest
 
 **Tools:** Git • GitHub • GitHub Actions • Figma
-
----
-
-
-## 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,javascript,react,flask,nodejs,express,mongodb,postgres,git,github,html,css&theme=light" />
-</p>
-
-| Category | Technologies |
-|----------|--------------|
-| 💻 Languages | Python • JavaScript • SQL • HTML • CSS |
-| ⚙️ Frameworks | React • Flask • Express.js |
-| 🗄️ Databases | PostgreSQL • MongoDB |
-| 🧪 Testing | Pytest • Jest |
-| 🔧 Tools | Git • GitHub • GitHub Actions • Figma |
-| 🤝 Practices | Agile Scrum • Test-Driven Development • Pair Programming |
 
 ---
 
@@ -74,7 +56,6 @@ An AI-powered decision coaching application that helps users navigate complex de
 **Tech:** React • Express.js • MongoDB • Anthropic API • GitHub Actions
 
 🔗 **Repository:** *[unStuck](https://github.com/zeinrafie1-jpg/unstuck-solo-project)*
-➡️ **Repository:** *https://github.com/zeinrafie1-jpg/unstuck-solo-project*
 
 ---
 
@@ -91,7 +72,6 @@ A full-stack booking platform for TV and film production companies to list, brow
 **Tech:** Python • Flask • PostgreSQL
 
 🔗 **Repository:** *[SceneBnB](https://github.com/zeinrafie1-jpg/makersbnb-public-python)*
-➡️ **Repository:** *https://github.com/zeinrafie1-jpg/makersbnb-public-python*
 
 ---
 
@@ -107,8 +87,7 @@ A Facebook-inspired social networking platform built collaboratively in an exist
 
 **Tech:** React • Express.js • MongoDB
 
-🔗 **Repository:** *([Meerbook](https://github.com/zeinrafie1-jpg/meerbook))*
-➡️ **Repository:** *https://github.com/zeinrafie1-jpg/meerbook*
+🔗 **Repository:** *[Meerbook](https://github.com/zeinrafie1-jpg/meerbook)*
 
 ---
 
@@ -124,14 +103,13 @@ A music discovery platform that helps users find local live events using third-p
 
 **Tech:** React • Express.js • MongoDB
 
-🔗 **Repository:** *([enCore](https://github.com/zeinrafie1-jpg/events-webapp))*
-➡️ **Repository:** *https://github.com/zeinrafie1-jpg/events-webapp*
+🔗 **Repository:** *[enCore](https://github.com/zeinrafie1-jpg/events-webapp)*
 
 ---
 
 ## 📫 Connect
 
-💼 **LinkedIn:** *(https://www.linkedin.com/in/zein-rafie-003574193/)*
+💼 **LinkedIn:** *https://www.linkedin.com/in/zein-rafie-003574193/*
 
 📧 **Email:** zeinrafie1@gmail.com
 

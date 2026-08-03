@@ -38,6 +38,10 @@ Alongside this, I'm continuing to develop my skills in:
 - Software architecture
 - Building production-ready full-stack applications
 
+---
+
+## Featured Projects
+
 
 | Project | What it does | Technologies | Repository |
 |---------|--------------|--------------|------------|
@@ -46,9 +50,6 @@ Alongside this, I'm continuing to develop my skills in:
 | 👥 **Meerbook** | Facebook-inspired social networking platform with collaborative full-stack feature development. | React • Express.js • MongoDB | [🔗](https://github.com/yourusername/meerbook) |
 | 🎵 **enCore** | Music discovery platform integrating Ticketmaster and Google Maps APIs. | React • Express.js • MongoDB | [🔗](https://github.com/yourusername/encore) |
 
----
-
-## Featured Projects
 
 ### 🧠 UnStuck *(Currently Building)*
 

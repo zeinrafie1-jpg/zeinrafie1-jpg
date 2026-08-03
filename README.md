@@ -38,7 +38,6 @@ Alongside this, I'm continuing to develop my skills in:
 - Software architecture
 - Building production-ready full-stack applications
 
----
 
 | Project | What it does | Technologies | Repository |
 |---------|--------------|--------------|------------|

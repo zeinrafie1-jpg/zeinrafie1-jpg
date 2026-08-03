@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zein Rafie
+# Hi, I'm Zein Rafie
 
 ### Software Engineer | Python • JavaScript • React
 
@@ -10,7 +10,7 @@ I'm a junior software engineer with a background in **Conversion Rate Optimisati
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,react,flask,express,mongodb,postgres,git,github,githubactions,html,css&theme=light" />
@@ -28,7 +28,7 @@ I'm a junior software engineer with a background in **Conversion Rate Optimisati
 
 ---
 
-## 🌱 Current Focus
+## Current Focus
 
 I'm currently building **UnStuck**, an AI-powered decision coaching application that helps users work through complex decisions using structured AI reasoning.
 
@@ -40,7 +40,7 @@ Alongside this, I'm continuing to develop my skills in:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🧠 UnStuck *(Currently Building)*
 
@@ -107,7 +107,7 @@ A music discovery platform that helps users find local live events using third-p
 
 ---
 
-## 📫 Connect
+## Connect
 
 💼 **LinkedIn:** *https://www.linkedin.com/in/zein-rafie-003574193/*
 

@@ -40,6 +40,15 @@ Alongside this, I'm continuing to develop my skills in:
 
 ---
 
+| Project | What it does | Technologies | Repository |
+|---------|--------------|--------------|------------|
+| 🧠 **UnStuck** *(Currently Building)* | AI-powered decision coaching application that helps users navigate complex decisions through structured AI reasoning. | React • Express.js • MongoDB • Anthropic API | [🔗](https://github.com/yourusername/unstuck) |
+| 🎬 **SceneBnB** | Airbnb-style booking platform for TV & film locations with listing, booking and approval workflows. | Python • Flask • PostgreSQL | [🔗](https://github.com/yourusername/scenebnb) |
+| 👥 **Meerbook** | Facebook-inspired social networking platform with collaborative full-stack feature development. | React • Express.js • MongoDB | [🔗](https://github.com/yourusername/meerbook) |
+| 🎵 **enCore** | Music discovery platform integrating Ticketmaster and Google Maps APIs. | React • Express.js • MongoDB | [🔗](https://github.com/yourusername/encore) |
+
+---
+
 ## Featured Projects
 
 ### 🧠 UnStuck *(Currently Building)*

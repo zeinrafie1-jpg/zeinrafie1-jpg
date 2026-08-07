@@ -45,8 +45,8 @@ Alongside this, I'm continuing to develop my skills in:
 | Project | What it does | Repo |
 |---------|--------------|------|
 | 🧠 **UnStuck** *(Currently Building)* | AI-powered decision coaching app using structured AI reasoning | [🔗Link](https://github.com/zeinrafie1-jpg/unstuck-solo-project) |
-| 🎵 **enCore** | Music discovery platform using Ticketmaster & Google Maps APIs | [🔗Link](https://github.com/zeinrafie1-jpg/events-webapp) |
-| 👥 **Meerbook** | Facebook-inspired social platform, built collaboratively | [🔗Link](https://github.com/zeinrafie1-jpg/meerbook) |
+| 🎵 **enCore** | Local music event discovery platform using Ticketmaster & Google Maps APIs | [🔗Link](https://github.com/zeinrafie1-jpg/events-webapp) |
+| 👥 **Meerbook** | Meerkat-themed social platform inspired by Facebook | [🔗Link](https://github.com/zeinrafie1-jpg/meerbook) |
 | 🎬 **SceneBnB** | Booking platform for TV/film locations | [🔗Link](https://github.com/zeinrafie1-jpg/makersbnb-public-python) |
 
 ### 🧠 UnStuck *(Currently Building)*
@@ -68,12 +68,13 @@ An AI-powered decision coaching application that helps users navigate complex de
 
 ### 🎵 enCore
 
-A music discovery platform that helps users find local live events using third-party APIs.
+A music platform that helps users discover, save and track live music events near them using third-party APIs.
+
 
 **What I learned**
 
 - Integrating external APIs including Ticketmaster and Google Maps
-- Building full-stack features within a collaborative Agile team
+- Building full-stack features within a collaborative Agile team (team of 5)
 - Creating intuitive user experiences from wireframes through to implementation
 
 **Tech:** React • Express.js • MongoDB
@@ -84,7 +85,7 @@ A music discovery platform that helps users find local live events using third-p
 
 ### 👥 Meerbook
 
-A Facebook-inspired social networking platform built collaboratively in an existing MERN codebase.
+A Facebook inspired social networking platform built collaboratively in an existing MERN codebase.
 
 **What I learned**
 

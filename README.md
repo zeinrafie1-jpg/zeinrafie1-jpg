@@ -22,7 +22,7 @@ I'm a junior software engineer with a background in **Conversion Rate Optimisati
 
 **Databases:** PostgreSQL • MongoDB
 
-**Testing:** pytest • Jest
+**Testing:** Pytest • Jest
 
 **Tools:** Git • GitHub • GitHub Actions • Figma
 
@@ -36,20 +36,18 @@ Alongside this, I'm continuing to develop my skills in:
 
 - AI application development
 - Software architecture
-- Building production-ready full-stack applications
+- Building more full-stack applications
 
 ---
 
 ## Featured Projects
 
-
-| Project | What it does | Technologies | Repository |
-|---------|--------------|--------------|------------|
-| 🧠 **UnStuck** *(Currently Building)* | AI-powered decision coaching application that helps users navigate complex decisions through structured AI reasoning. | React • Express.js • MongoDB • Anthropic API | [🔗](https://github.com/yourusername/unstuck) |
-| 🎬 **SceneBnB** | Airbnb-style booking platform for TV & film locations with listing, booking and approval workflows. | Python • Flask • PostgreSQL | [🔗](https://github.com/yourusername/scenebnb) |
-| 👥 **Meerbook** | Facebook-inspired social networking platform with collaborative full-stack feature development. | React • Express.js • MongoDB | [🔗](https://github.com/yourusername/meerbook) |
-| 🎵 **enCore** | Music discovery platform integrating Ticketmaster and Google Maps APIs. | React • Express.js • MongoDB | [🔗](https://github.com/yourusername/encore) |
-
+| Project | What it does | Repo |
+|---------|--------------|------|
+| 🧠 **UnStuck** *(Currently Building)* | AI-powered decision coaching app using structured AI reasoning | [🔗Link](https://github.com/zeinrafie1-jpg/unstuck-solo-project) |
+| 🎵 **enCore** | Music discovery platform using Ticketmaster & Google Maps APIs | [🔗Link](https://github.com/zeinrafie1-jpg/events-webapp) |
+| 👥 **Meerbook** | Facebook-inspired social platform, built collaboratively | [🔗Link](https://github.com/zeinrafie1-jpg/meerbook) |
+| 🎬 **SceneBnB** | Booking platform for TV/film locations | [🔗Link](https://github.com/zeinrafie1-jpg/makersbnb-public-python) |
 
 ### 🧠 UnStuck *(Currently Building)*
 
@@ -64,23 +62,23 @@ An AI-powered decision coaching application that helps users navigate complex de
 
 **Tech:** React • Express.js • MongoDB • Anthropic API • GitHub Actions
 
-🔗 **Repository:** *[unStuck](https://github.com/zeinrafie1-jpg/unstuck-solo-project)*
+🔗 **Repository:** *[UnStuck](https://github.com/zeinrafie1-jpg/unstuck-solo-project)*
 
 ---
 
-### 🎬 SceneBnB
+### 🎵 enCore
 
-A full-stack booking platform for TV and film production companies to list, browse and book filming locations.
+A music discovery platform that helps users find local live events using third-party APIs.
 
 **What I learned**
 
-- Building full-stack applications with Python, Flask and PostgreSQL
-- Designing booking workflows and preventing booking conflicts
-- Collaborating in an Agile Scrum team using pair programming and TDD
+- Integrating external APIs including Ticketmaster and Google Maps
+- Building full-stack features within a collaborative Agile team
+- Creating intuitive user experiences from wireframes through to implementation
 
-**Tech:** Python • Flask • PostgreSQL
+**Tech:** React • Express.js • MongoDB
 
-🔗 **Repository:** *[SceneBnB](https://github.com/zeinrafie1-jpg/makersbnb-public-python)*
+🔗 **Repository:** *[enCore](https://github.com/zeinrafie1-jpg/events-webapp)*
 
 ---
 
@@ -100,19 +98,19 @@ A Facebook-inspired social networking platform built collaboratively in an exist
 
 ---
 
-### 🎵 enCore
+### 🎬 SceneBnB
 
-A music discovery platform that helps users find local live events using third-party APIs.
+A full-stack booking platform for TV and film production companies to list, browse and book filming locations.
 
 **What I learned**
 
-- Integrating external APIs including Ticketmaster and Google Maps
-- Building full-stack features within a collaborative Agile team
-- Creating intuitive user experiences from wireframes through to implementation
+- Building full-stack applications with Python, Flask and PostgreSQL
+- Designing booking workflows and preventing booking conflicts
+- Collaborating in an Agile Scrum team using pair programming and TDD
 
-**Tech:** React • Express.js • MongoDB
+**Tech:** Python • Flask • PostgreSQL
 
-🔗 **Repository:** *[enCore](https://github.com/zeinrafie1-jpg/events-webapp)*
+🔗 **Repository:** *[SceneBnB](https://github.com/zeinrafie1-jpg/makersbnb-public-python)*
 
 ---
 

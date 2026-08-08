@@ -58,7 +58,7 @@ An AI-powered decision coaching application that helps users navigate complex de
 - Designing AI-powered user experiences
 - Building secure backend integrations with external APIs
 - Streaming AI responses in real time using Server-Sent Events
-- Applying testing and CI practices to production-style applications
+- Applying testing and CI practices with Jest and GitHub Actions
 
 **Tech:** React • Express.js • MongoDB • Anthropic API • GitHub Actions
 

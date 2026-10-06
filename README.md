@@ -47,7 +47,7 @@ Alongside this, I'm continuing to develop my skills in:
 | 🧠 **UnStuck** *(Currently Building)* | AI-powered decision coaching app using structured AI reasoning | [🔗Link](https://github.com/zeinrafie1-jpg/unstuck-solo-project) |
 | 🎵 **enCore** | Local music event discovery platform using Ticketmaster & Google Maps APIs | [🔗Link](https://github.com/zeinrafie1-jpg/events-webapp) |
 | 👥 **Meerbook** | Meerkat-themed social platform inspired by Facebook | [🔗Link](https://github.com/zeinrafie1-jpg/meerbook) |
-| 🎬 **SceneBnB** | Booking platform for TV/film locations | [🔗Link](https://github.com/zeinrafie1-jpg/makersbnb-public-python) |
+| 🎬 **SceneBnB** | Airbnb-style platform for booking stays at TV/film locations | [🔗Link](https://github.com/zeinrafie1-jpg/makersbnb-public-python) |
 
 ### 🧠 UnStuck *(Currently Building)*
 
@@ -101,7 +101,7 @@ A Facebook inspired social networking platform built collaboratively in an exist
 
 ### 🎬 SceneBnB
 
-A full-stack booking platform for TV and film production companies to list, browse and book filming locations.
+A full-stack Airbnb-style booking platform where users can stay at properties where movies and TV shows were filmed. Users can list their own properties or browse and book others.
 
 **What I learned**
 
